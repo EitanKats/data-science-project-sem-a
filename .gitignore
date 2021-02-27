@@ -135,4 +135,4 @@ dmypy.json
 
 #data-files-ignore
 
-*.csv
+cast.csv
